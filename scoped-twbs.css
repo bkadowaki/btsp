@@ -2783,6 +2783,7 @@ fieldset[disabled] .twbs .btn-link:focus {
   border-left: 4px solid transparent;
   border-bottom: 0 dotted;
   content: "";
+  text-decoration: none !important;
 }
 .twbs .dropdown {
   position: relative;
